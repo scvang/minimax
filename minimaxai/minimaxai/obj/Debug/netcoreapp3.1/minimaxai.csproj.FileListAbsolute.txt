@@ -1,0 +1,12 @@
+C:\Users\Sebastian\source\repos\minimaxai\minimaxai\bin\Debug\netcoreapp3.1\minimaxai.exe
+C:\Users\Sebastian\source\repos\minimaxai\minimaxai\bin\Debug\netcoreapp3.1\minimaxai.deps.json
+C:\Users\Sebastian\source\repos\minimaxai\minimaxai\bin\Debug\netcoreapp3.1\minimaxai.runtimeconfig.json
+C:\Users\Sebastian\source\repos\minimaxai\minimaxai\bin\Debug\netcoreapp3.1\minimaxai.runtimeconfig.dev.json
+C:\Users\Sebastian\source\repos\minimaxai\minimaxai\bin\Debug\netcoreapp3.1\minimaxai.dll
+C:\Users\Sebastian\source\repos\minimaxai\minimaxai\bin\Debug\netcoreapp3.1\minimaxai.pdb
+C:\Users\Sebastian\source\repos\minimaxai\minimaxai\obj\Debug\netcoreapp3.1\minimaxai.AssemblyInfoInputs.cache
+C:\Users\Sebastian\source\repos\minimaxai\minimaxai\obj\Debug\netcoreapp3.1\minimaxai.AssemblyInfo.cs
+C:\Users\Sebastian\source\repos\minimaxai\minimaxai\obj\Debug\netcoreapp3.1\minimaxai.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\minimaxai\minimaxai\obj\Debug\netcoreapp3.1\minimaxai.dll
+C:\Users\Sebastian\source\repos\minimaxai\minimaxai\obj\Debug\netcoreapp3.1\minimaxai.pdb
+C:\Users\Sebastian\source\repos\minimaxai\minimaxai\obj\Debug\netcoreapp3.1\minimaxai.genruntimeconfig.cache
